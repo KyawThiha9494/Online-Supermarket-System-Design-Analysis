@@ -3,7 +3,8 @@ The following contains highlights of our project. Please refer to the full files
 
 System Analysis and Design of Transforming a Brick &amp; Mortar Supermarket into Comprehensive Online Ecommerce and Warehouse Management System Integration. PDF on ful report , proposal to CEO and video presentation as provided. 
 
-# Team 4 Video Presentation:  https://www.youtube.com/watch?v=jNanWRNTmH8 
+# Team 4 Video Presentation:  
+https://www.youtube.com/watch?v=jNanWRNTmH8 
 
 ![image](https://user-images.githubusercontent.com/65886071/83298333-d0936900-a226-11ea-8f76-10cd71739f9c.png)
 

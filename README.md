@@ -31,6 +31,7 @@ competitors and increase sales.
 # Challenges
 
 ![image](https://user-images.githubusercontent.com/65886071/83300924-69c47e80-a22b-11ea-90b1-39f740397c55.png)
+# Personas for Branch manager & Customer  - Benedict & Summer Ngo
 
 # Branch Manager Journey Map - Lance & Saw
 
@@ -95,7 +96,7 @@ competitors and increase sales.
 # Cashier Checkout - Kyaw Thia
 ![CashierCheckOut](https://user-images.githubusercontent.com/65886071/83300238-40efb980-a22a-11ea-8043-5bbb44124f7b.PNG)
 
-# # Non-Functional Requirement
+# # Non-Functional Requirement (Summer Ngo)
 # 3 Tier System Architecture
 
 ![System Architecture](https://user-images.githubusercontent.com/65886071/83300688-05a1ba80-a22b-11ea-9afa-e3a76b5bbb13.jpg)

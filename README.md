@@ -109,6 +109,3 @@ competitors and increase sales.
 # Technology Integration & Automation
 
 ![image](https://user-images.githubusercontent.com/65886071/83300974-7fd23f00-a22b-11ea-9006-e286d71e40ad.png)
-
-
-K-Test

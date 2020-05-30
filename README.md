@@ -96,7 +96,7 @@ competitors and increase sales.
 # Cashier Checkout - Kyaw Thia
 ![CashierCheckOut](https://user-images.githubusercontent.com/65886071/83300238-40efb980-a22a-11ea-8043-5bbb44124f7b.PNG)
 
-# # Non-Functional Requirement (Summer Ngo)
+# # Non-Functional Requirement
 # 3 Tier System Architecture
 
 ![System Architecture](https://user-images.githubusercontent.com/65886071/83300688-05a1ba80-a22b-11ea-9afa-e3a76b5bbb13.jpg)
